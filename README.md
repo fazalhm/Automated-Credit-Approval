@@ -21,4 +21,4 @@ Once, the parameter tuning is completed the classifier is analysed using cross v
 result with the confusion matrix for the project. Since, the best classifier is extracted from the project, it can be then used
 for an automated credit card approval system.
 The best classifier to use is Random Forest which yields 86% accuracy with the ratio of approving someone for credit 
-when they should have been rejected to be low as 12%. 
+when they should have been rejected to be low as 11%. 
